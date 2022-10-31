@@ -10,4 +10,6 @@ SKILLS
 - Worked with Firebase (Authentication, Crashlytics, Cloud Message, In-App Message), Facebook SDK, Yahoo SDK, and LG Dual Screen SDK.
 - Be familiar with CI/CD using GitLab CI/CD, GitHub Actions, and Fastlane.
 - Strong understanding of Git and GitFlow.
+
+
 Programming Languages: Java, Kotlin, Dart.
