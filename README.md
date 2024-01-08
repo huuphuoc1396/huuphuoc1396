@@ -1,4 +1,4 @@
-An energetic and innovative Android Developer with 7 years of experience developing and building cutting-edge Android applications. I have experience working and building projects using Modern Android Development skills to make quality apps for users and clients and successfully deliver apps to the Google Play Store. Also, continuously improving to maximize development effectively to produce awesome apps.
+I am a dynamic and creative Android Developer with 6+ years of experience in developing and building state-of-the-art Android applications. I possess expertise in working with Modern Android Development skills, which enables me to produce high-quality apps for both users and clients. I have a proven track record of delivering successful apps on the Google Play Store. Moreover, I am always striving to enhance my development skills to deliver exceptional apps effectively.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huuphuoc1396)](https://github.com/anuraghazra/github-readme-stats)
 
