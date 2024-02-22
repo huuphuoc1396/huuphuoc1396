@@ -8,5 +8,7 @@ I am a dynamic and creative Android Developer with 6+ years of experience in dev
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huuphuoc1396)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
 ### Medium Stories
 [![Medium](https://github-readme-medium.vercel.app/?username=huuphuoc1396&limit=3)](https://medium.com/@huuphuoc1396)
