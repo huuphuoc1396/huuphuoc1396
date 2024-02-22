@@ -5,3 +5,5 @@ I am a dynamic and creative Android Developer with 6+ years of experience in dev
 [![GitHub Streak](https://streak-stats.demolab.com/?user=huuphuoc1396)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huuphuoc1396)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Medium](https://github-readme-medium.vercel.app/?username=huuphuoc1396)](https://medium.com/@huuphuoc1396)
