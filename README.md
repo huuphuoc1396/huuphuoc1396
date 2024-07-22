@@ -5,12 +5,19 @@ I am a dynamic and creative Android Developer with over 7 years of experience in
 ![Huuphuoc1396's GitHub stats](https://github-readme-stats.vercel.app/api?username=huuphuoc1396&show_icons=true&theme=radical)
 
 ### 🛠️ My Tech Stack
-- **Languages**: Kotlin, Java
+- **Languages**: Java, Kotlin
 - **Frameworks**: Jetpack Compose, Android SDK
-- **Tools**: Android Studio, Firebase, Retrofit, Dagger, Room
+- **Architecture**: MVVM, Clean Architecture
+- **Tools**: Android Studio, Firebase, Retrofit, Dagger, Room, OkHttp, Gson, Glide
 - **Version Control**: Git, GitHub
-- **CI/CD**: GitHub Actions, Bitrise
-- **Others**: REST APIs, Clean Architecture, Agile/Scrum
+- **CI/CD**: GitHub Actions, GitLab CI/CD, Bitrise.io
+- **Concurrency**: Kotlin Coroutines, RxJava2
+- **Dependency Injection**: Hilt, Dagger2, Koin
+- **Testing**: Unit Testing, Instrumented Tests, JaCoCo
+- **Security**: Securing Android applications
+- **Firebase Services**: Authentication, Cloud Messaging, In-App Messaging, Firestore Database, Storage
+- **Project Management**: Code review, team development
+- **Other Skills**: Building location-aware apps, delivering apps to Google Play Store, understanding of Git-flow
 
 ### 📫 How to reach me
 - Email: [huuphuoc1396@gmail.com](mailto:huuphuoc1396@gmail.com)
