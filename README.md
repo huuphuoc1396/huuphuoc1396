@@ -11,4 +11,4 @@ I am a dynamic and creative Android Developer with 6+ years of experience in dev
 ---
 
 ### Medium Stories
-[![Medium](https://github-readme-medium.vercel.app/?username=huuphuoc1396&limit=3)](https://medium.com/@huuphuoc1396)
+[![Medium](https://github-readme-medium.vercel.app/?username=huuphuoc1396&limit=4)](https://medium.com/@huuphuoc1396)
