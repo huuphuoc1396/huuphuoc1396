@@ -24,6 +24,7 @@ Energetic and innovative Android Engineer with over 6 years of experience in dev
 ### 📫 How to reach me
 - Email: [huuphuoc1396@gmail.com](mailto:huuphuoc1396@gmail.com)
 - LinkedIn: [huuphuoc1396](https://www.linkedin.com/in/huuphuoc1396)
+- Medium: [@huuphuoc1396](https://medium.com/@huuphuoc1396)
 
 ### 🚀 Projects
 - [**Android Template**](https://github.com/huuphuoc1396/android-template): This project is designed to streamline the development of Android applications using Clean Architecture principles. It provides a robust foundation for building scalable, maintainable, and testable applications by separating concerns into distinct layers.
